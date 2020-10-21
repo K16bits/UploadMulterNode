@@ -2,7 +2,8 @@
 upload de arquivos usando o Multer
 
 - Iniciando<br>
-  npm install
+  npm install<br>
+  npm start
 - Acessar no seu navegador<br>
   localhost:3333
 
